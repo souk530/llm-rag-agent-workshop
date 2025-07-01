@@ -1,0 +1,47 @@
+# 必要なライブラリのリスト
+
+# 基本的なデータ処理
+numpy==1.24.3
+pandas==2.0.3
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# LLM・AI関連
+google-generativeai==0.7.2
+openai==1.35.0
+anthropic==0.31.1
+
+# RAG関連
+chromadb==0.4.15
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+langchain==0.2.11
+langchain-google-genai==1.0.7
+langchain-community==0.2.10
+
+# PDFとドキュメント処理
+PyPDF2==3.0.1
+python-docx==0.8.11
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# ベクトル検索・埋め込み
+tiktoken==0.5.1
+
+# 環境変数・設定
+python-dotenv==1.0.0
+
+# Webアプリケーション（デモ用）
+streamlit==1.28.1
+gradio==3.50.2
+
+# ユーティリティ
+tqdm==4.66.1
+python-dateutil==2.8.2
+
+# ローカルLLM関連
+ollama==0.3.0
+
+# 開発・デバッグ用
+ipython==8.15.0
+jupyter==1.0.0
