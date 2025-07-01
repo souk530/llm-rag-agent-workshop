@@ -23,7 +23,7 @@
 - VSCode（推奨）
 
 ### アカウント作成
-- [Google Cloud Console](https://console.cloud.google.com/)でGemini API利用のためのアカウント作成
+- [Google AI Studio](https://aistudio.google.com/)でGemini API利用のためのアカウント作成
 
 ### 環境構築
 
