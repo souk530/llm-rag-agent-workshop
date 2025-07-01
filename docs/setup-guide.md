@@ -90,7 +90,7 @@ GOOGLE_API_KEY=your_actual_api_key_here
 
 ### Google Gemini API
 
-1. [Google AI Studio](https://makersuite.google.com/app/apikey)にアクセス
+1. [Google AI Studio](https://aistudio.google.com/)にアクセス
 2. Googleアカウントでログイン
 3. 「Create API Key」をクリック
 4. 生成されたキーをコピーして`.env`ファイルに貼り付け
